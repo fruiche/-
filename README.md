@@ -1,2 +1,2 @@
-# -
+# セックスしないと出られない部屋
 minecraftのOpenComputersにおける実装
